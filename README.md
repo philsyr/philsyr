@@ -1,15 +1,16 @@
-# Hi, I'm Philip
+# Hi, I'm Philip 👋
 
 **Backend developer · Java & Spring Boot**
 
 I build backend applications with Java and Python, from Telegram integrations to tools for everyday workflows.
 
-<!-- CONTACTS: replace the markers below with your real details, then move the links outside this comment.
-[LinkedIn](ВСТАВЬ_ССЫЛКУ_LINKEDIN) · [Email](mailto:ВСТАВЬ_EMAIL_ДЛЯ_СВЯЗИ)
-Optional: [Resume](ВСТАВЬ_ССЫЛКУ_НА_РЕЗЮМЕ)
--->
+**Resume:** [English (PDF)](https://github.com/philsyr/philsyr/blob/main/resume/Syrtsev_CV_EN.pdf) · [Русский (PDF)](https://github.com/philsyr/philsyr/blob/main/resume/Syrtsev_CV_RU.pdf)
 
-## Selected projects
+[Email](mailto:syrtsevphil.job@gmail.com) · [Telegram](https://t.me/philsyr)
+
+<!-- Add your real LinkedIn URL here when ready: [LinkedIn](ВСТАВЬ_ССЫЛКУ_LINKEDIN) -->
+
+## Selected projects 🛠️
 
 ### [Telegram Anti-Spam Bot](https://github.com/philsyr/telegram-antispam-bot)
 
