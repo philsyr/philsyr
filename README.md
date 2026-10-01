@@ -4,7 +4,7 @@
 
 I build backend applications with Java and Python, from Telegram integrations to tools for everyday workflows.
 
-**Resume:** [English (PDF)](https://github.com/philsyr/philsyr/blob/main/resume/Syrtsev_CV_EN.pdf) · [Русский (PDF)](https://github.com/philsyr/philsyr/blob/main/resume/Syrtsev_CV_RU.pdf)
+**Resume:** [Русский (PDF)](https://github.com/philsyr/philsyr/blob/main/resume/Syrtsev_CV_RU.pdf)
 
 [Email](mailto:syrtsevphil.job@gmail.com) · [Telegram](https://t.me/philsyr)
 
