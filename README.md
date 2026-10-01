@@ -1,34 +1,34 @@
-<h1 align="center">Hi 👋, I'm Philip</h1>
-<h3 align="center">Junior Backend Developer</h3>
+# Hi, I'm Philip
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=philsyr&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+**Backend developer · Java & Spring Boot**
 
----
+I build backend applications with Java and Python, from Telegram integrations to tools for everyday workflows.
 
-# 🔧 Tech Stack
+<!-- CONTACTS: replace the markers below with your real details, then move the links outside this comment.
+[LinkedIn](ВСТАВЬ_ССЫЛКУ_LINKEDIN) · [Email](mailto:ВСТАВЬ_EMAIL_ДЛЯ_СВЯЗИ)
+Optional: [Resume](ВСТАВЬ_ССЫЛКУ_НА_РЕЗЮМЕ)
+-->
 
-### 🧡 Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" height="40" />
-</p>
+## Selected projects
 
-### 🌿 Backend Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="30"/>
-</p>
+### [Telegram Anti-Spam Bot](https://github.com/philsyr/telegram-antispam-bot)
 
-### 🗄 Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-</p>
+A Telegram bot prototype that checks Russian-language messages for spam. A Java application calls a Python inference API backed by the pretrained `ruSpam_big` model.
 
-### 🛠 Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-</p>
+- **Backend integration:** Spring Boot, Telegram Bot API and a separate FastAPI service.
+- **Explore:** architecture, request/response examples, local setup and current limitations.
+
+**Java · Spring Boot · Python · FastAPI · PyTorch**
+
+[Code & documentation →](https://github.com/philsyr/telegram-antispam-bot#readme)
+
+### [Obsidian Task Feature Library](https://github.com/philsyr/obsidian-task-feature-library)
+
+A modular Obsidian plugin that updates parent checkboxes as subtasks change and highlights task start times, while preserving native Markdown task syntax.
+
+- **Independent features:** enable or disable each enhancement in the plugin settings.
+- **Explore:** installation, the feature registry, development commands and tests.
+
+**TypeScript · Obsidian · CodeMirror**
+
+[Code & documentation →](https://github.com/philsyr/obsidian-task-feature-library#readme)
