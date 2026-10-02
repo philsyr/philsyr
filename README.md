@@ -1,6 +1,6 @@
 # Hi, I'm Philip 👋
 
-**Software Engineer**
+**Software Engineer | Applied AI**
 
 Interested in distributed systems, developer tools, and applied AI.
 
