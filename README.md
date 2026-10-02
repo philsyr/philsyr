@@ -1,8 +1,8 @@
 # Hi, I'm Philip 👋
 
-**Software Engineer at Wildberries**
+**Software Engineer**
 
-Teaching Assistant at Central University. Interested in distributed systems, developer tools, and applied AI.
+Interested in distributed systems, developer tools, and applied AI.
 
 ## Contact
 
