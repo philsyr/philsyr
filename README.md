@@ -1,6 +1,6 @@
 # Hi, I'm Philip 👋
 
-**Software Engineer | Applied AI**
+**Software Engineer | Backend | Go • Java • Python | AI Automation**
 
 Interested in distributed systems, developer tools, and applied AI.
 
