@@ -12,7 +12,7 @@ Interested in distributed systems, developer tools, and applied AI.
 
 **Telegram:** [@philsyr](https://t.me/philsyr)
 
-## Featured projects 🛠️
+## Featured projects 
 
 - [`telegram-antispam-bot`](https://github.com/philsyr/telegram-antispam-bot) — Telegram spam detection using a pretrained ML model.
 - [`obsidian-task-feature-library`](https://github.com/philsyr/obsidian-task-feature-library) — Task automation for Obsidian.
