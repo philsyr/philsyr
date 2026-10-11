@@ -14,6 +14,6 @@ Interested in distributed systems, developer tools, and applied AI.
 
 ## Featured projects 
 
-- [`insurance-integration-platform`](https://github.com/philsyr/insurance-integration-platform) — Self-service insurance integration MVP with a Java backend, React admin console, and embeddable Web SDK.
-- [`telegram-antispam-bot`](https://github.com/philsyr/telegram-antispam-bot) — Telegram spam detection using a pretrained ML model.
-- [`obsidian-task-feature-library`](https://github.com/philsyr/obsidian-task-feature-library) — Task automation for Obsidian.
+- [`insurance-integration-platform`](https://github.com/philsyr/insurance-integration-platform) - Self-service insurance integration platform with a Java backend, React admin console, and embeddable Web SDK.
+- [`telegram-antispam-bot`](https://github.com/philsyr/telegram-antispam-bot) - Telegram spam detection using a pretrained ML model.
+- [`obsidian-task-feature-library`](https://github.com/philsyr/obsidian-task-feature-library) - Task automation for Obsidian.
